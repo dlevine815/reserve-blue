@@ -1,2 +1,2 @@
 # reserve-tfl
-Script for reserving The French Laundry on Tock
+Script for testing out 
